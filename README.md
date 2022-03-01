@@ -1,0 +1,1 @@
+# Political-Party-Symbol-Detector
