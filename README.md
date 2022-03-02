@@ -3,9 +3,9 @@
 ![Party-Symbol-detector](https://user-images.githubusercontent.com/44370096/156371318-425f227a-20a0-444d-b9e5-bbd26400214d.gif)
 
 ## Features
-`Estimated Time Of Arrival (ETA)- 0.2 secs`
+- `Estimated Time Of Arrival (ETA)- 0.2 secs`
 
-`Light Weight Model`
+- `Light Weight Model`
 
 
 
